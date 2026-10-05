@@ -18,7 +18,7 @@ I am a client-facing Senior Data & AI Architect specializing in engineering high
 
 * **Enterprise Data Architecture & AI Readiness:** Designing scalable data foundations that unify siloed systems, accelerating time-to-insight and establishing the necessary data quality prerequisites for advanced predictive modeling and agentic automation.
 * **High-Throughput Event Processing:** Architecting fault-tolerant, low-latency streaming infrastructures capable of ingesting and processing billions of daily telemetry events while maintaining strict high-availability and zero-data-loss SLAs.
-* **Infrastructure Modernization:** Leading the migration of legacy, on-premise monolithic systems to fully managed, serverless cloud ecosystems, significantly reducing operational overhead and establishing automated, zero-downtime deployment lifecycles.
+* **Infrastructure Modernization:** Leading the migration of legacy, on-premise monolithic systems to fully managed, serverless multi-cloud ecosystems, significantly reducing operational overhead and establishing automated, zero-downtime deployment lifecycles.
 * **Data Governance & Security Operations:** Enforcing rigorous zero-trust security models, enterprise-grade access controls, and comprehensive data quality frameworks to ensure continuous compliance with international regulatory standards and executive technical audits.
 
 ---
@@ -35,22 +35,28 @@ I am a client-facing Senior Data & AI Architect specializing in engineering high
 
 **Cloud & Infrastructure**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Languages & Databases**  
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+
+**Databases**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-005571?style=flat-square&logo=database&logoColor=white)  
+*(Including PostgreSQL, MS SQL Server, ClickHouse, DynamoDB...)*
 
 ---
 
 ### 🏆 Featured Enterprise Impact
 
-* **Vodafone Oman 5G:** Architected a mission-critical financial interconnect billing infrastructure processing billions of daily network events[cite: 7]. Quadrupled system throughput and established a robust active-standby disaster recovery architecture, achieving 99.99% availability and seamless compliance during rigorous third-party regulatory audits[cite: 7].
-* **Chevrolet - GM:** Spearheaded a legacy-to-cloud modernization initiative, transitioning monolithic workloads into a scalable serverless ecosystem[cite: 7]. Developed a real-time Customer 360 backend that successfully unified fragmented telemetry into an optimized relational data store, delivering ultra-low-latency intelligence directly to frontline enterprise telephony systems[cite: 7].
-* **Dataroom:** Orchestrated the end-to-end automation of critical B2B CRM synchronization workflows[cite: 7]. Reverse-engineered and optimized legacy data models[cite: 7], substantially improving overall system stability, data accuracy, and proactive anomaly detection for downstream consumer applications[cite: 7].
+* **Vodafone Oman 5G:** Architected a mission-critical financial interconnect billing infrastructure processing billions of daily network events. Quadrupled system throughput and established a robust active-standby disaster recovery architecture, achieving 99.99% availability and seamless compliance during rigorous third-party regulatory audits.
+* **Chevrolet - GM:** Spearheaded a legacy-to-cloud modernization initiative, transitioning monolithic workloads into a scalable serverless ecosystem. Developed a real-time Customer 360 backend that successfully unified fragmented telemetry into an optimized relational data store, delivering ultra-low-latency intelligence directly to frontline enterprise telephony systems.
+* **Dataroom:** Orchestrated the end-to-end automation of critical B2B CRM synchronization workflows. Reverse-engineered and optimized legacy data models, substantially improving overall system stability, data accuracy, and proactive anomaly detection for downstream consumer applications.
 
 ---
