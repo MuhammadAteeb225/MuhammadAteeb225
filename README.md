@@ -12,17 +12,20 @@
 
 ---
 
-I am a client-facing Data & AI Architect with 5+ years of experience engineering highly available ETL/ELT pipelines, streaming infrastructures, and cloud-agnostic data platforms. I specialize in turning massive, unstructured datasets into optimized, analytics-ready assets and building the foundational infrastructure required to scale enterprise machine learning and AI agent workflows.
+I am a client-facing Senior Data & AI Architect specializing in engineering highly available data pipelines and cloud-agnostic platforms. I focus on translating massive, fragmented datasets into optimized, analytics-ready assets that drive enterprise intelligence and provide the structural foundation required to scale machine learning and AI workflows.
 
 ### 🚀 What I Do
-* **Data & AI Architecture:** Designing scalable data lakes/warehouses and integrating robust data pipelines to accelerate AI model readiness and agentic automation.
-* **High-Volume Data Streaming:** Processing billions of daily network and telemetry events with 99.99% uptime using Apache Kafka (MirrorMaker 2) and Apache Spark.
-* **Cloud Infrastructure (Multi-Cloud):** Architecting serverless and managed data solutions across diverse cloud ecosystems to prevent vendor lock-in.
-* **Agile Automation & Governance:** Automating zero-downtime deployments via Terraform and Ansible while enforcing strict data quality (QC), IAM/RBAC, and TLS security for rigorous technical audits.
+
+* **Enterprise Data Architecture & AI Readiness:** Designing scalable data foundations that unify siloed systems, accelerating time-to-insight and establishing the necessary data quality prerequisites for advanced predictive modeling and agentic automation.
+* **High-Throughput Event Processing:** Architecting fault-tolerant, low-latency streaming infrastructures capable of ingesting and processing billions of daily telemetry events while maintaining strict high-availability and zero-data-loss SLAs.
+* **Infrastructure Modernization:** Leading the migration of legacy, on-premise monolithic systems to fully managed, serverless cloud ecosystems, significantly reducing operational overhead and establishing automated, zero-downtime deployment lifecycles.
+* **Data Governance & Security Operations:** Enforcing rigorous zero-trust security models, enterprise-grade access controls, and comprehensive data quality frameworks to ensure continuous compliance with international regulatory standards and executive technical audits.
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💻 Tech Stack & Capabilities
+
+*(While I focus on architecture and business impact, these are the core technologies in my arsenal)*
 
 **Data Engineering, AI & Analytics**  
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-F66A0A?style=flat-square&logo=apachespark&logoColor=white)
@@ -44,15 +47,10 @@ I am a client-facing Data & AI Architect with 5+ years of experience engineering
 
 ---
 
-### 🏆 Featured Enterprise Experience
+### 🏆 Featured Enterprise Impact
 
-* **Vodafone Oman 5G:** Architected highly available Spark, Kafka, and NiFi pipelines processing billions of CDR events for interconnect billing. Led zero-downtime version upgrades and deployed Kafka Connect MM2 for multi-datacenter disaster recovery.
-* **Chevrolet - GM:** Engineered scalable EMR and Glue pipelines streaming 198+ tables into RDS PostgreSQL, delivering unified Customer 360 profiles via API Gateway.
-* **Dataroom CRM:** Built automated serverless ETL pipelines and performed rigorous reverse-engineering on legacy Python logic to ensure strict data quality.
+* **Vodafone Oman 5G:** Architected a mission-critical financial interconnect billing infrastructure processing billions of daily network events[cite: 7]. Quadrupled system throughput and established a robust active-standby disaster recovery architecture, achieving 99.99% availability and seamless compliance during rigorous third-party regulatory audits[cite: 7].
+* **Chevrolet - GM:** Spearheaded a legacy-to-cloud modernization initiative, transitioning monolithic workloads into a scalable serverless ecosystem[cite: 7]. Developed a real-time Customer 360 backend that successfully unified fragmented telemetry into an optimized relational data store, delivering ultra-low-latency intelligence directly to frontline enterprise telephony systems[cite: 7].
+* **Dataroom:** Orchestrated the end-to-end automation of critical B2B CRM synchronization workflows[cite: 7]. Reverse-engineered and optimized legacy data models[cite: 7], substantially improving overall system stability, data accuracy, and proactive anomaly detection for downstream consumer applications[cite: 7].
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAteeb225&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAteeb225&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</p>
